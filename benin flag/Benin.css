@@ -1,0 +1,24 @@
+.green{
+    width: 150px;
+    height: 298px;
+    background-color: #00a651;
+    inline-size: none;
+}
+.yellow{
+width: 250px;
+height: 150px;
+background-color: #fff200;
+position: fixed ;
+top: 10px;
+margin-left: 150px;
+
+}
+.red{
+    width: 250px;
+height: 150px;
+background-color: #ed1c24;
+position: fixed;
+top: 10px;
+margin-left:150px ;
+margin-top: 145px;
+}
